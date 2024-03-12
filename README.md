@@ -1,5 +1,5 @@
 # [CC3001] Algoritmos y Estructuras de Datos
-Different assignments using algorithms
+Different assignments using algorithms.
 
 ## Assignments
 
